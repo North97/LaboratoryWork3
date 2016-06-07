@@ -1,0 +1,5 @@
+select first + 157 * second 
+case 6 first = second*3;second=5
+case 5 first = second*125;second = first \ 3;first = first * second 
+default first = 0; second=0
+end
